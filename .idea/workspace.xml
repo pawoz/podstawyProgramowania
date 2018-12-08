@@ -4,7 +4,22 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie1.java" line="16" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd9dafc4-6e24-4735-8aa2-f5d9586b3f5e" name="Default Changelist" comment="" />
+    <list default="true" id="fd9dafc4-6e24-4735-8aa2-f5d9586b3f5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lista2/Zadanie1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lista2/Zadanie2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/zadanie1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/zadanie2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/podstawyProgramowania/Zadanie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/podstawyProgramowania/Zadanie2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/podstawyProgramowania/Zadanie3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/podstawyProgramowania/Zadanie4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajeciaMonograficzne/Rozne1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/zajeciaMonograficzne/Rozne2.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,14 +77,76 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1832018163">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="java" value="4302" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4302" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie1.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lista2/Zadanie2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lista2/Zadanie1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-111">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -87,6 +164,9 @@
     <findStrings>
       <find>round</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -111,22 +191,38 @@
         <option value="$PROJECT_DIR$/src/main/java/zajeciaMonograficzne/Rozne2.java" />
         <option value="$PROJECT_DIR$/src/main/java/zajeciaMonograficzne/Rozne1.java" />
         <option value="$PROJECT_DIR$/src/main/java/podstawyProgramowania/Zadanie4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/zadanie1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/zadanie2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lista2/Zadanie2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lista2/Zadanie1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Date.java" />
+        <option value="$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Data.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1924" />
-    <option name="y" value="-4" />
-    <option name="width" value="1928" />
-    <option name="height" value="1088" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="5" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,18 +259,31 @@
             <path>
               <item name="podstawyProgramowaniaRozwiazanieZadan" type="b2602c69:ProjectViewProjectNode" />
               <item name="podstawyProgramowaniaRozwiazanieZadan" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lista2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="podstawyProgramowaniaRozwiazanieZadan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="podstawyProgramowaniaRozwiazanieZadan" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zadaniaNaZajeciach" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542725502271" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Zajęcia monograficzne/zajeciaMonograficzneRozwiazanieZadan" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544289366942" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -194,68 +303,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadanie4">
-    <configuration name="Rozne1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zajeciaMonograficzne.Rozne1" />
-      <module name="rowzwiazanieListy1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zajeciaMonograficzne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rozne2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zajeciaMonograficzne.Rozne2" />
-      <module name="rowzwiazanieListy1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zajeciaMonograficzne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista1.Zadanie2" />
+  <component name="RunManager" selected="Application.Data">
+    <configuration name="Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadaniaNaZajeciach.Data" />
       <module name="Lista1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadaniaNaZajeciach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista2.Zadanie1" />
+      <module name="Lista1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista2.Zadanie2" />
+      <module name="Lista1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista1.Zadanie3" />
+      <option name="MAIN_CLASS_NAME" value="zadaniaNaZajeciach.Zadanie3" />
       <module name="Lista1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadaniaNaZajeciach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lista1.Zadanie4" />
+      <option name="MAIN_CLASS_NAME" value="zadaniaNaZajeciach.Zadanie4" />
       <module name="Lista1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadaniaNaZajeciach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Zadanie2" />
-      <item itemvalue="Application.Zadanie3" />
+      <item itemvalue="Application.Zadanie3 (1)" />
       <item itemvalue="Application.Zadanie4" />
-      <item itemvalue="Application.Rozne1" />
-      <item itemvalue="Application.Rozne2" />
+      <item itemvalue="Application.Zadanie2 (2)" />
+      <item itemvalue="Application.Zadanie1" />
+      <item itemvalue="Application.Data" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Data" />
+        <item itemvalue="Application.Zadanie1" />
+        <item itemvalue="Application.Zadanie2 (2)" />
         <item itemvalue="Application.Zadanie4" />
-        <item itemvalue="Application.Rozne1" />
-        <item itemvalue="Application.Rozne2" />
-        <item itemvalue="Application.Zadanie3" />
-        <item itemvalue="Application.Zadanie2" />
+        <item itemvalue="Application.Zadanie3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -273,9 +400,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1924" y="-4" width="1928" height="1088" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,15 +412,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966466" visible="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50033534" side_tool="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298969" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -306,6 +434,22 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="(year - yearOfTheMonkey) % 12" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>(year - yearOfTheMonkey) % 12</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -314,54 +458,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5867">
-          <caret line="2324" column="69" lean-forward="true" selection-start-line="2324" selection-start-column="69" selection-end-line="2324" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="962" column="23" selection-start-line="962" selection-start-column="23" selection-end-line="962" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/java/io/IOException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/java/lang/Math.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/java/io/PrintStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_71/src.zip!/java/io/IOException.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/zajeciaMonograficzne/Rozne1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/zajeciaMonograficzne/Rozne2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="10" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="310">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lista1/Zadanie4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lista2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lista2/Zadanie1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lista2/Zadanie2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Zadanie3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2993" selection-start-line="2993" selection-end-line="2993" />
+          <folding>
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/zadaniaNaZajeciach/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -370,6 +562,7 @@
     <states>
       <state key="ProjectJDKs.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
