@@ -28,11 +28,11 @@ public class Zadanie3 {
         if (n == 0 && k == 0)
             return 1;
         else
-            return wynik = (int) ((silnia(n) / (silnia(k) * silnia((n - k)))));
+            return (int) ((silnia(n) / (silnia(k) * silnia((n - k)))));
     }
 
     public static void drukujWynik() {
-        System.out.println(wynik);
+        System.out.println(obliczDwumian(n, k));
     }
 
     public static void main(String[] args) {
